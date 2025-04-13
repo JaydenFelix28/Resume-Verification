@@ -18,7 +18,7 @@ Distributed Ledger platform for issuing verified certifications ,LOR's very hand
 
 - Clone the repositiory :
 
-`git clone https://github.com/gittcoder/ResumeVerificationUsingBlockchain `
+`git clone https://github.com/JaydenFelix28/Resume-Verification.git `
 
 - Setup Local Blockchain :
     - Run the following command to start a local blockchain
